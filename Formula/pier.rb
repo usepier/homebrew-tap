@@ -1,8 +1,8 @@
 class Pier < Formula
   desc "Give every agent session its own VM. One command up, zero burn when idle"
   homepage "https://github.com/usepier/pier"
-  url "https://github.com/usepier/pier/archive/refs/tags/v0.7.tar.gz"
-  sha256 "f78828d862b9213d83f4e358516db2502eea2a9d07f3080fc2c6fc5acd8ede73"
+  url "https://github.com/usepier/pier/archive/refs/tags/v0.8.tar.gz"
+  sha256 "086d962b864c0932558daa0839327d216735979a1b5ec7c4387a5ea3b4446b5b"
   license "MIT"
   head "https://github.com/usepier/pier.git", branch: "main"
 
